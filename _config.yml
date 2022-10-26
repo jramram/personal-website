@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
     # - repo-name
 
@@ -52,6 +52,9 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
+  
+  - name: Palview
+    web_url: https://palview.gmv.com
 
   - name: Sass
     web_url: https://github.com/topics/sass
